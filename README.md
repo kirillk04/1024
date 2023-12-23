@@ -19,5 +19,6 @@ The game dynamically updates the grid and checks for win/lose conditions.
 Game Controls
 Use arrow keys (up, down, left, right) to move tiles in the respective direction.
 Press 'S' to exit the game.
+
 Customization
 You can customize the grid size or initial conditions by modifying the constructor parameters in the source code.
